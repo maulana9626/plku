@@ -176,13 +176,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.ibb.co/pj6Ty4M/SSC1.webp", SSC 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 2" tvg-logo="https://i.ibb.co/82r8TnC/ssc2.webp", SSC 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 3" tvg-logo="https://i.ibb.co/56vVgDT/ssc3.webp", SSC 3 
