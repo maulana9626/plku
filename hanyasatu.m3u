@@ -5,7 +5,7 @@
 ##########################
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/7g912N9/test-tv-epl-f4cbe6.jpg" group-title="LIVE EVENT",Premier League
-https://oha.to/play/126506577/index.m3u8
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co/yg4V2Cf/La-Liga-Logo.jpg",LA LIGA
 https://oha.to/play/3923153097/index.m3u8
@@ -160,6 +160,16 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48499.m3u8
 #EXTINF:0 tvg-name="SPORT TV 5" tvg-logo="https://tlgrm.re/images/sport-tv-5-pt.png" group-title="SPORTS",SPORT TV 5
 http://kstv.us:8080/live/tH300gvHff/8606073792/48500.m3u8
 
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/wz863wC/1000099839.png" group-title="SPORTS",TVRI SPORTS
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/G2CCCmM/440px-SPOTV-logo-svg.png" group-title="SPORTS",SPOTV
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/cJZH5hX/1634257305-thumb-spotv-2.png" group-title="SPORTS",SPOTV2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
 #EXTINF:-1  group-title="SPORTS" tvg-logo="https://i.ibb.co/gdLKVRV/TNT-Sport-1-GB-logo.webp",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -800,12 +810,12 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="THAILAND" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R_0022.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://edge6a.v2h-cdn.com/pptv/pptv.stream/chunklist_w265706871.m3u8
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/chunklist_w852002394_b1128000_slThai.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/True4U_Logo.svg/500px-True4U_Logo.svg.png",TRUE4U
-https://edge6a.v2h-cdn.com/true4u/true4u.stream/chunklist_w1389177385.m3u8
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://www.lyngsat.com/logo/tv/num/13_siam_thai_th.png" group-title="THAILAND",13 SIAM THAI
 https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
