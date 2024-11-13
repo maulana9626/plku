@@ -163,7 +163,11 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/48500.m3u8
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/wz863wC/1000099839.png" group-title="SPORTS",TVRI SPORTS
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/G2CCCmM/440px-SPOTV-logo-svg.png" group-title="SPORTS",TrueVision SPOTV
+https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/cJZH5hX/1634257305-thumb-spotv-2.png" group-title="SPORTS",TrueVision SPOTV2
+https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/G2CCCmM/440px-SPOTV-logo-svg.png" group-title="SPORTS",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
