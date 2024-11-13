@@ -71,6 +71,9 @@ https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-agent=Mozill
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1600px-Logo_bein_sports_3.png" group-title="SPORTS",TRUE BEINSPORTS 3
 https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",BEIN SPORT XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TSN1" tvg-logo="https://images2.imgbox.com/59/de/pSgKYYP3_o.png" group-title="SPORTS",TSN1
 https://webhdrunns.mizhls.ru/lb/premium111/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
@@ -253,51 +256,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/300px-UnifiSports2023.png" group-title="SPORTS",UNIFI SPORTS
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/YR0xFLx/1200px-Logo-bein-sports-1.png" group-title="SPORTS",BEIN SPORTS 1
-https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 1.m3u8
-
-#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/fG8rFdz/images-q-tbn-ANd9-Gc-RYi-ELj-EQ75-Yjg8-Riy-YNVn-Z0-VW-Q83-D7-U85jg-s.jpg" group-title="SPORTS",BEIN SPORTS 2
-https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 2.m3u8
-
-#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Qk1T1sF/ch643-425-305.png" group-title="SPORTS",BEIN SPORTS 3
-https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 3.m3u8
-
-
-#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Fs4LDRr/1200px-Logo-bein-sports-4.png" group-title="SPORTS",BEIN SPORTS 4
-https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 4.m3u8
-
-#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/B4GmxWF/ch645-425-305.png" group-title="SPORTS",BEIN SPORTS 5
-https://raw.githubusercontent.com/Maulana962/playlisttv/main/beIN Sport/beIN Sport 5.m3u8
-
-
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="SPORTS",Astro SuperSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="SPORTS",Astro SuperSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="SPORTS",Astro SuperSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="SPORTS",Astro SuperSport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="SPORTS",Astro SuperSport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay.xyz
-
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",BEIN SPORT XTRA
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  group-title="SPORTS" tvg-logo="https://i.ibb.co/dtB4qVs/774px-DAZN-1-Logo-svg.png",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
