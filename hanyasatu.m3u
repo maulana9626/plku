@@ -390,7 +390,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nMtrycM/Ac-Klun-MDFcv80-JSj9v-Lyy-N1t-VQtf-Eheyyl3p1-Av-Q.png" group-title="INDONESIA",TRANS7
-https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="INDONESIA",TRANSTV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
@@ -506,7 +506,7 @@ https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 group-title="INDONESIA" tvg-id="KIX - [Channel 161].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Ct9B8Db/800px-KIX-logo-svg.png",KIX
-https://melon-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
