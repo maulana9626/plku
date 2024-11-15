@@ -463,6 +463,9 @@ https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/qJNjYXF/1000087771.png" group-title="INDONESIA",FLIK
 https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
 
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/DMPhdV0/1000100482.png" group-title="INDONESIA", cinemaworld 
+https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/NnxFn1R/617-LOGO-m.png",Galaxy 
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
 
