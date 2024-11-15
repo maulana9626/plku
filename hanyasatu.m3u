@@ -81,7 +81,7 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37433
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",BEIN SPORT XTRA
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="..." group-title="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png",SPORTS XTRA EN 
+#EXTINF:-1 tvg-id="..." tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="SPORTS",SPORTS XTRA EN 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-name="TSN1" tvg-logo="https://images2.imgbox.com/59/de/pSgKYYP3_o.png" group-title="SPORTS",TSN1
