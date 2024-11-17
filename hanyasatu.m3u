@@ -19,7 +19,7 @@ https://oha.to/play/1224881617/index.m3u8
 #EXTINF:-1 tvg-id="Bundesliga.id" tvg-logo="https://i.ibb.co.com/kS7bF0C/1000100546.png" group-title="LIVE EVENT", Bundesliga 
 https://oha.to/play/1917998896/index.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/NFL-Logo.png" group-title="LIVE EVENT",NFL
+#EXTINF:-1 tvg-id="..." tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/NFL-Logo.png" group-title="LIVE EVENT",National Football League
 https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/9s9v5K1/240px-F1-svg.png" group-title="LIVE EVENT", Formula 1
@@ -31,8 +31,12 @@ https://oha.to/play/270716645/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="GG" tvg-logo="" group-title="LIVE EVENT",LIVE EVENT
-https://mycdn.global.ssl.fastly.net/paulvstyson/index.m3u8
+#EXTINF:-1 tvg-id="GG" tvg-logo="https://i.ibb.co/sbPVXMT/450px-Major-League-Baseball-logo-svg.png" group-title="LIVE EVENT",Major League Baseball
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Wp3KyfP/380px-05-NHL-Shield-svg.png" group-title="LIVE EVENT",National Hockey League
+https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
 
 ##########################
 ########  SPORTS  ########
@@ -91,20 +95,19 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-name="TSN1" tvg-logo="https://images2.imgbox.com/59/de/pSgKYYP3_o.png" group-title="SPORTS",TSN1
-https://webhdrunns.mizhls.ru/lb/premium111/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://212.102.60.231/TSN_1/index.m3u8
 
 #EXTINF:-1 tvg-name="TSN2" tvg-logo="https://images2.imgbox.com/90/18/u74eP6Nj_o.png" group-title="SPORTS",TSN2
-https://webhdrunns.mizhls.ru/lb/premium112/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://212.102.60.231/TSN_2/index.m3u8
 
 #EXTINF:-1 tvg-name="TSN3" tvg-logo="https://images2.imgbox.com/6b/7d/1YJPEGx3_o.png" group-title="SPORTS",TSN3
-https://webhdrunns.mizhls.ru/lb/premium113/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://212.102.60.231/TSN_3/index.m3u8
 
 #EXTINF:-1 tvg-name="TSN4" tvg-logo="https://images2.imgbox.com/80/73/rya2RkUF_o.png" group-title="SPORTS",TSN4
-https://webhdrunns.mizhls.ru/lb/premium114/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://212.102.60.231/TSN_4/index.m3u8
 
 #EXTINF:-1 tvg-name="TSN5" tvg-logo="https://images2.imgbox.com/2e/35/VUGjAVya_o.png" group-title="SPORTS",TSN5
-https://webhdrunns.mizhls.ru/lb/premium115/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
+http://212.102.60.231/TSN_5/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
