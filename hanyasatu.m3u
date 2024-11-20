@@ -37,6 +37,8 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Wp3KyfP/380px-05-NHL-Shield-svg.png" group-title="LIVE EVENT",National Hockey League
 https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/cTYY0rY/1000103123.png" group-title="LIVE EVEN",National Basketball Association
+http://212.102.60.231/NBA_TV/tracks-v1a1/mono.m3u8
 
 ##########################
 ########  SPORTS  ########
