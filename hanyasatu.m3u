@@ -462,7 +462,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/BwftJhB/390px-Thrilllogo-webp.png" group-title="INDONESIA",Thrill
-https://i.ibb.co.com/BwftJhB/390px-Thrilllogo-webp.png
+https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/PQsG5NM/UPLOAD-1613353271.png" group-title="INDONESIA",IMC
 https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
