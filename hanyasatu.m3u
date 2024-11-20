@@ -461,13 +461,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-id="2440" tvg-logo="https://i.ibb.co.com/BwftJhB/390px-Thrilllogo-webp.png" group-title="INDONESIA", THRILL
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/BwftJhB/390px-Thrilllogo-webp.png" group-title="INDONESIA",Thrill
+https://i.ibb.co.com/BwftJhB/390px-Thrilllogo-webp.png
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/PQsG5NM/UPLOAD-1613353271.png" group-title="INDONESIA",IMC
 https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
