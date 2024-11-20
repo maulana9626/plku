@@ -19,7 +19,7 @@ https://oha.to/play/1224881617/index.m3u8
 #EXTINF:-1 tvg-id="Bundesliga.id" tvg-logo="https://i.ibb.co.com/kS7bF0C/1000100546.png" group-title="LIVE EVENT", Bundesliga 
 https://oha.to/play/1917998896/index.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/NFL-Logo.png" group-title="LIVE EVENT",National Football League
+#EXTINF:-1 tvg-id="..." tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/NFL-Logo.png" group-title="LIVE EVENT",NFL
 https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/9s9v5K1/240px-F1-svg.png" group-title="LIVE EVENT", Formula 1
@@ -31,13 +31,13 @@ https://oha.to/play/270716645/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="GG" tvg-logo="https://i.ibb.co/sbPVXMT/450px-Major-League-Baseball-logo-svg.png" group-title="LIVE EVENT",Major League Baseball
+#EXTINF:-1 tvg-id="GG" tvg-logo="https://i.ibb.co/sbPVXMT/450px-Major-League-Baseball-logo-svg.png" group-title="LIVE EVENT",MLB
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Wp3KyfP/380px-05-NHL-Shield-svg.png" group-title="LIVE EVENT",National Hockey League
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Wp3KyfP/380px-05-NHL-Shield-svg.png" group-title="LIVE EVENT",NHL
 https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/cTYY0rY/1000103123.png" group-title="LIVE EVENT",National Basketball Association
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/cTYY0rY/1000103123.png" group-title="LIVE EVENT",NBA
 http://212.102.60.231/NBA_TV/tracks-v1a1/mono.m3u8
 
 ##########################
