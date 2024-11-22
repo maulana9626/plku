@@ -600,6 +600,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSport
 #EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://i.postimg.cc/HLBFxHgP/20231111-164817.png",MAXSTREAM 
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/rMCyHLt/1000104052.png" group-title="INDONESIA",HITS
+https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/km44CD5/HITS-MOVIES-ASIA.png" group-title="INDONESIA",Hits Movie
+https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8
+
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/1ZSzZp0/1000100422-removebg-preview.png" group-title="INDONESIA",Insert
 https://streaming.indihometv.com/joss/130/insert720/playlist.m3u8
 
