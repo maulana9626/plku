@@ -4,6 +4,13 @@
 ########LIVE EVENT########
 ##########################
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dbqSnQ3/d-Fyd-JWdg-400x400.jpg" group-title="LIVE EVENT",INDOSIAR 2 (Live Only)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.m3u8?id=205
+
 #EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/kqVz9Q9/560px-Premier-League-Logo-svg.png" group-title="LIVE EVENT",Premier League
 https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 
