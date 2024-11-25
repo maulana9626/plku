@@ -751,6 +751,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/3h9g5RD/logo-animate-fin-b5d66d0.webp" group-title="INDONESIA",Indonesiana tv
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA" tvg-id="tvone.id" tvg-logo="https://i.ibb.co.com/YR4mD8c/Tv-One-2023-svg.png",tvOne 
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
