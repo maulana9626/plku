@@ -1312,3 +1312,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AllPlay_Entertainment.png/1600px-AllPlay_Entertainment.png" group-title="OTHER",AllPlay
 https://github.com/maulana9626/forin/raw/refs/heads/main/allplay.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/qCMHJLb/SEA-Today-Indonesia-Logo.png" group-title="OTHER",SEAT oday
+https://streaming.indihometv.com/atm/hlsv3/seatoday/playlist.m3u8
+
+#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co.com/WF3dtQY/SERU-Channel.png" group-title="OTHER",Seru channel
+https://streaming.indihometv.com/joss/134/seru/playlist.m3u8
+
+
+
