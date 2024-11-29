@@ -1323,4 +1323,7 @@ https://streaming.indihometv.com/joss/134/seru/playlist.m3u8
 https://streaming.indihometv.com/atm/hlsv3/tv5monde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://images.indihometv.com/tvposter/eatgo.png" group-title="OTHER",eat&go
+https://streaming.indihometv.com/joss/134/eatgo720/playlist.m3u8
 
+#EXTINF:-1 tvg-id="..." tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501154_tvchannels_v1.jpg" group-title="OTHER",Live streaming 1
+https://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&userid=lite&chname=Live_Streaming_1
