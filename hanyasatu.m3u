@@ -1201,10 +1201,10 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 #EXTINF:-1 tvg-id="animlplanet.ind" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="INDIA",ANIMAL PLANET
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_21.m3u8
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_20.m3u8
 
 #EXTINF:-1 tvg-id="discovery.ind" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="INDIA",DISCOVERY
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_25.m3u8
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_24.m3u8
 
 #EXTINF:-1 tvg-id="wion.ind" tvg-logo="https://i.postimg.cc/DyJJHpCY/unnamed.png" group-title="INDIA",WION
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b1c9518f-6637-4712-a17b-f0a46bdffc0b/main.m3u8
