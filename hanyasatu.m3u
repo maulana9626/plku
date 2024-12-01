@@ -852,7 +852,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="THAILAND" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/R_0022.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/chunklist_w852002394_b1128000_slThai.m3u8
+https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=bjeYjg3M2VmNzg3ZjAzMmU1YTJiOAOWJkZTY0YzQ3YTEyMDJj
 
 
 
@@ -864,6 +864,9 @@ https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/โลโก้ช่อง5.png/800px-โลโก้ช่อง5.png" group-title="THAILAND",CHANNEL 5
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w2100015713.m3u8
+
+#EXTINF:-1 tvg-id="ch8" tvg-logo="https://i.ibb.co/kqMKqcW/images-q-tbn-ANd9-Gc-R6-Cgj-WSijej-Tja-Z7-Pj-Jz6-CFSZci5u-IQesm-Vg-usqp-CAU.png" group-title="THAILAND",Channel 8
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 
 
 
@@ -1324,8 +1327,3 @@ https://streaming.indihometv.com/atm/hlsv3/tv5monde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="..." tvg-logo="https://images.indihometv.com/tvposter/eatgo.png" group-title="OTHER",eat&go
 https://streaming.indihometv.com/joss/134/eatgo720/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png" group-title="OTHER",gtv..
-https://divine-hill-c274.maulana20061227.workers.dev/?id=rcti
